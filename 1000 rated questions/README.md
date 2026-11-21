@@ -1,6 +1,6 @@
 ## Codeforces – 1000 Rated Problems
 
-This folder contains my solutions to 1000-rated Codeforces problems.
+This folder contains my solutions to **1000-rated** Codeforces problems.
 
 For each problem, I aim to:
 
